@@ -1,0 +1,8 @@
+#login_cont { width: 100%; margin: 0 auto; max-width: 320px;}
+#login { float: left; width: 100%; padding: 0px 10px;}
+#login div { overflow: hidden; width: 100%; float: left; margin: 10px 0px 0px 0px;}
+#login label { cursor: text; float: left; position: absolute; color: #444; opacity: 0; margin: 14px 0px 0px 15px;}
+#login input { float: left; outline: none; border: none; background: #aaa; width: 100%; height: 20px; border-left: 10px solid #666; padding: 5px 0px 5px 5px; margin-bottom: 10px;}
+#login input:focus { border-left: 10px solid #00ffcc;}
+#login input#send { width: 100%; float: left; background: #999; color: #fff; cursor: pointer; font-weight: bold; padding: 10px 20px; height: 50px;}
+#login input#send:hover { background: #666; border-left: 10px solid #00ffcc;}
