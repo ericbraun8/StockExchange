@@ -6,3 +6,4 @@
 #login input:focus { border-left: 10px solid #00ffcc;}
 #login input#send { width: 100%; float: left; background: #999; color: #fff; cursor: pointer; font-weight: bold; padding: 10px 20px; height: 50px;}
 #login input#send:hover { background: #666; border-left: 10px solid #00ffcc;}
+#login input{color: #bbb;}
