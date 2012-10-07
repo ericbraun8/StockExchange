@@ -130,12 +130,6 @@ print '<meta http-equiv="REFRESH" content="0;url=http://www.cosmicpolygon.com/ex
 
 <div >
 <?php echo $bucks; ?>
-
-
-<script>
-$(document).ready(function(){
-});
-</script>
 	
 </body>
 </html>
