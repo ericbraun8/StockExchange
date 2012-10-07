@@ -1,3 +1,4 @@
+body { width: 100%;}
 #login_cont { width: 100%; margin: 0 auto; max-width: 320px;}
 #login { float: left; width: 100%; padding: 0px 10px;}
 #login div { overflow: hidden; width: 100%; float: left; margin: 10px 0px 0px 0px;}
