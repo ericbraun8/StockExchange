@@ -29,6 +29,11 @@
 
 			<input type="submit" id="send" value="Log In" name="submit" />
 			<div id="result" ></div> 
+
+			<div>
+				<a href="#">Forgot Username</a>
+				<a href="#">Forgot Password</a>
+			</div
 	</form> 
 	
 	</div> 
